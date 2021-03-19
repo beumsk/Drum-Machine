@@ -1,2 +1,5 @@
 # Drum-Machine
-Drum Machine working with click and keyboard letters. Project built during freecodecamp certification.
+Play some sounds with the Drum Machine using clicks or keyboard letters. Project built during freecodecamp certification.
+
+TODO:
+* fix sound download
